@@ -7,14 +7,14 @@ highlighter: rouge
 markdown: kramdown
 disqus: DuanYuchen
 google_analytics: DuanYuchen
-title: Stee1Forest
+title: DuanYuchen
 
 defaults:
   -
     scope:
       path: "" # empty string for all files
     values:
-      title: Test
+      title: Stee1Forest
 
 description: Stylish Jekyll Theme
 author:
