@@ -5,8 +5,8 @@ paginate_path: "page:num"
 exclude: ["README.md"] # files to exclude
 highlighter: rouge
 markdown: kramdown
-disqus: dbyll
-google_analytics: dbyll
+disqus: DuanYuchen
+google_analytics: DuanYuchen
 title: Stee1Forest
 
 defaults:
@@ -14,7 +14,7 @@ defaults:
     scope:
       path: "" # empty string for all files
     values:
-      title: Stee1Forest
+      title: Test
 
 description: Stylish Jekyll Theme
 author:
